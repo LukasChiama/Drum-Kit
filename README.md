@@ -1,1 +1,1 @@
-# Drum-kit
+Following Wes Bos 30-day vanills JS challege. This is the first project in the series built on my own. Hit certain keys on the keyboard to get associated sounds and see an on-screen transform achieved with CSS.
